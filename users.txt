@@ -1,0 +1,3 @@
+student,S1,John Doe,student2@gmail.com,9375829485,student12,CS101
+teacher,T1,Prof Smith,smith@example.com,0987654321,pass456
+admin,A1,Admin,admin@example.com,1112223333,pass789
